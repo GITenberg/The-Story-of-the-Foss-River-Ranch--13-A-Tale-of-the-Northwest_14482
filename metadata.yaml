@@ -1,0 +1,28 @@
+_repo: The-Story-of-the-Foss-River-Ranch--13-A-Tale-of-the-Northwest_14482
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cullum, Ridgwell
+    alias: Burghard, Sidney Groves
+    birthdate: 1867
+    deathdate: 1943
+    gutenberg_agent_id: '5545'
+    url: http://www.gutenberg.org/2009/agents/5545
+description: ''
+gutenberg_issued: '2004-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Western stories'
+- !lcsh 'Ranch life -- Fiction'
+title: 'The Story of the Foss River Ranch: A Tale of the Northwest'
+url: http://www.gutenberg.org/ebooks/14482
