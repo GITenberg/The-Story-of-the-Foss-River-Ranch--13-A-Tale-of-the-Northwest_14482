@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5545'
     url: http://www.gutenberg.org/2009/agents/5545
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14482#The-Story-of-the-Foss-River-Ranch--13-A-Tale-of-the-Northwest
 gutenberg_issued: '2004-12-27'
 gutenberg_type: Text
 identifiers:
